@@ -4,7 +4,7 @@
 
 This Power BI dashboard project provides a comprehensive **analysis of Residential House Price**, built using **Google BigQuery** as the data source. It presents critical insights into **house price trends, market performance, and the impact of macroeconomic factors** across various regions and property types.
 
-The dashboard is designed for **real estate analysts, investors, policy makers, and homebuyers** who seek data-driven insights to inform property decisions in Denmark.
+The dashboard is designed for **real estate analysts, investors, policy makers, and homebuyers** who seek data-driven insights to inform property decisions.
 
 ---
 
@@ -83,24 +83,11 @@ The dataset includes:
 
 ---
 
-## ✨ Screenshots
-
-> *(Add a few screenshots of your dashboard here for better visual appeal on GitHub or your portfolio)*
-> 
-<img width="616" alt="House Market Overview" src="https://github.com/user-attachments/assets/18ef65a1-e905-42b8-91e6-5602b34fbb09" />
-
-<img width="617" alt="Sales Performance" src="https://github.com/user-attachments/assets/b1c50bfe-0a95-46d7-a92e-b8831c2194ca" />
-
-<img width="616" alt="House Types" src="https://github.com/user-attachments/assets/9e49fb48-b0f6-4f37-814c-05453f97b9a4" />
-
-
----
-
 ## 📬 Contact
 
 **Rakesh B**  
 Data Analyst | Power BI | Python | SQL  
-📧 rakesh.analytics@example.com  
+📧 rakeshrak8484@gmail.com  
 📎 [LinkedIn](https://www.linkedin.com/in/rakesh-b-9b7709290/) 
 
 ---
