@@ -15,15 +15,21 @@ The dashboard is designed for **real estate analysts, investors, policy makers, 
 - Temporal trend analysis of house prices over time.
 - Interactive maps to visualize regional price variations.
 
+<img width="616" alt="House Market Overview" src="https://github.com/user-attachments/assets/18ef65a1-e905-42b8-91e6-5602b34fbb09" />
+
 ### 2. **Sales Performance**
 - Quarterly breakdown of total sales, median prices, and price changes.
 - Percentage changes between offer and purchase prices to reflect market competitiveness.
 - Sales grouped by region, area, and city for micro-level insights.
 
+<img width="617" alt="Sales Performance" src="https://github.com/user-attachments/assets/b1c50bfe-0a95-46d7-a92e-b8831c2194ca" />
+
 ### 3. **House Type Analysis**
 - Comparative analysis of property types: Detached, Semi-detached, Apartments, etc.
 - Size vs. price visualizations: `SQM`, `no_rooms`, `year_built`.
 - Price per square meter comparison by property type and location.
+
+<img width="616" alt="House Types" src="https://github.com/user-attachments/assets/9e49fb48-b0f6-4f37-814c-05453f97b9a4" />
 
 ### 4. **Macroeconomic Impact**
 - Integrated economic indicators: 
